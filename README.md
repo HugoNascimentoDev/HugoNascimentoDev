@@ -32,18 +32,6 @@
 
 ---
 
-## 📈 Minhas estatísticas
-
-<div align="center">
-
-![Hugo GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoNascimentoDev&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoNascimentoDev&layout=compact&theme=transparent)
-
-</div>
-
----
-
 ## 📬 Onde me encontrar
 
 <p align="left">
