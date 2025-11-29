@@ -54,4 +54,5 @@
 
 <h3 align="center">✨ Obrigado por visitar meu perfil! Sinta-se à vontade para acompanhar minha evolução.</h3>
 
+<img width="1536" height="1024" alt="ChatGPT Image 28 de nov  de 2025, 23_33_21" src="https://github.com/user-attachments/assets/2c666c5a-a706-468f-8f8d-ecd07fee938a" />
 
