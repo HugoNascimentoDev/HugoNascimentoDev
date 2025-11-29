@@ -27,10 +27,10 @@
 
 ## 📌 Projetos / Estudos
 
-🔹 **Bootcamp Luizalabs Python – DIO** — exercícios e projetos em Python
-🔹 **Mundo 1, 2 e 3 Python** - Curso em Video / Estudonauta - Gustavo Guanabara
-🔹 **Git e Github** - Curso em Video / Estudonauta - Gustavo Guanabara
-🔹 Scripts próprios focados em lógica e automação (em atualização)
+- **Bootcamp Luizalabs Python – DIO** — exercícios e projetos em Python
+- **Mundo 1, 2 e 3 Python** - Curso em Video / Estudonauta - Gustavo Guanabara
+- **Git e Github** - Curso em Video / Estudonauta - Gustavo Guanabara
+- Scripts próprios focados em lógica e automação (em atualização)
 
 ---
 
