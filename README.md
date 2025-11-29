@@ -53,3 +53,13 @@
 ---
 
 <h3 align="center">✨ Obrigado por visitar meu perfil! Sinta-se à vontade para acompanhar minha evolução.</h3>
+
+![Hugo Brito do Nascimento](https://copilot.microsoft.com/th/id/BCO.71e32515-8578-493f-a731-da2f44e288ed.png)
+
+**Hugo Brito do Nascimento**  
+Desenvolvedor | Apaixonado por tecnologia e inovação
+
+🔗 [LinkedIn](https://www.linkedin.com/in/hugo-brito-do-nascimento-ba898941/)  
+📸 [Instagram](https://www.instagram.com/hugonascimentodev)  
+💻 [GitHub](https://github.com/HugoNascimentoDev)
+
