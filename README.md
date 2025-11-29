@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Hugo Nascimento</h1>
+<h1 align="center">👋 Olá! Eu sou o Hugo Brito do Nascimento</h1>
 
 <p align="center">
   Estudante de programação focado em <strong>Python</strong>, construindo meu caminho com o projeto pessoal <strong>#RoadToDev2026</strong>.
