@@ -27,7 +27,7 @@
 
 ## 📌 Projetos / Estudos
 
-- **Mundo 1, 2 e 3 Python** - Curso em Video / Estudonauta - Gustavo Guanabara
+- **Mundo 1, 2 e 3 Python** - Curso em Video / Estudonauta - Gustavo Guanabara (em atualização)
 - **Git e Github** - Curso em Video / Estudonauta - Gustavo Guanabara
 - Scripts próprios focados em lógica e automação (em atualização)
 
