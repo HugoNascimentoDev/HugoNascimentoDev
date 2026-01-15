@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-- 📌 Atualmente estudando no **Bootcamp Luizalabs Python – DIO**  
+- 📌 Atualmente estudando no **Curso de Python 3 - Mundo 3: Estruturas Compostas - Curso em video - Gustavo Guanabara**  
 - 🧠 Focado em evoluir em **Python**, lógica e desenvolvimento de projetos reais  
 - 💼 Equilibrando rotina profissional, estudos e vida de pai  
 - 🌱 Buscando constância e crescimento na área de tecnologia
@@ -27,7 +27,6 @@
 
 ## 📌 Projetos / Estudos
 
-- **Bootcamp Luizalabs Python – DIO** — exercícios e projetos em Python
 - **Mundo 1, 2 e 3 Python** - Curso em Video / Estudonauta - Gustavo Guanabara
 - **Git e Github** - Curso em Video / Estudonauta - Gustavo Guanabara
 - Scripts próprios focados em lógica e automação (em atualização)
